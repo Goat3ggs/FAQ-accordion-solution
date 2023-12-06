@@ -5,7 +5,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [FAQ Solution](https://goat3ggs.github.io/FAQ-accordion-solution/)
 
 ## My process
 
