@@ -1,6 +1,6 @@
 # Frontend Mentor - FAQ accordion solution
 
-![](./assets/images/Capture.PNG)
+![](./assets/images/better%20one.PNG)
 
 
 ### Links
